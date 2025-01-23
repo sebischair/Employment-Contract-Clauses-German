@@ -37,7 +37,7 @@ If you use this dataset in your research, please cite our work as follows:
 ```bibtex
 @inproceedings{wardas2024employment,
   title={AI-assisted German Employment Contract Review: A Benchmark Dataset},
-  author={Oliver Wardas, Florian Matthes},
+  author={Oliver, Wardas and Florian, Matthes},
   booktitle={IRIS: Internationales Rechtsinformatik Symposium},
   year={2025},
   note={Dataset available at https://github.com/sebischair/Employment-Contract-Clauses-German}
