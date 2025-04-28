@@ -1,0 +1,58 @@
+[
+    {
+        "_id": "678a5b21780e9d4cb9184931",
+        "title": "Vergütung"
+    },
+    {
+        "_id": "678a5b35780e9d4cb9184943",
+        "title": "Durchführung"
+    },
+    {
+        "_id": "678a5b3a780e9d4cb918494f",
+        "title": "Kündigung/Beendigung"
+    },
+    {
+        "_id": "678a5b40780e9d4cb918495d",
+        "title": "Leistungen"
+    },
+    {
+        "_id": "678a5b46780e9d4cb918496d",
+        "title": "Krankheit"
+    },
+    {
+        "_id": "678a5b4f780e9d4cb918498f",
+        "title": "Urlaub"
+    },
+    {
+        "_id": "678a5b54780e9d4cb91849a3",
+        "title": "Verjährung"
+    },
+    {
+        "_id": "678a5b5a780e9d4cb91849b9",
+        "title": "Form"
+    },
+    {
+        "_id": "678a5b60780e9d4cb91849d1",
+        "title": "Pfändung/Abtretung"
+    },
+    {
+        "_id": "678a5b66780e9d4cb91849eb",
+        "title": "Überstunden"
+    },
+    {
+        "_id": "678a5b6b780e9d4cb9184a07",
+        "title": "Ausschlussfristen"
+    },
+    {
+        "_id": "678a5b71780e9d4cb9184a25",
+        "title": "Erfindungen"
+    },
+    {
+        "_id": "678a5b84780e9d4cb9184a45",
+        "title": "Vertragsstrafe/Wettbewerbsverbot"
+    },
+    {
+        "_id": "678a5b89780e9d4cb9184a67",
+        "title": "Sonstiges"
+    }
+]

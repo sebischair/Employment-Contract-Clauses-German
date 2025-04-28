@@ -1,0 +1,19 @@
+Accuracy: 0.7441
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       valid       0.89      0.81      0.85       697
+      unfair       0.19      0.29      0.23        82
+        void       0.56      0.65      0.60       112
+
+    accuracy                           0.74       891
+   macro avg       0.55      0.59      0.56       891
+weighted avg       0.79      0.74      0.76       891
+
+
+Confusion Matrix (Formatted):
+          valid     unfair    void      
+valid     566       92        39        
+unfair    40        24        18        
+void      28        11        73        
