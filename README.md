@@ -9,23 +9,13 @@ It offers a unique resource for researchers, providing insights into common lega
 
 The dataset is periodically updated according to changes in regulation and new court rulings. New versions might also contain additional annotations and supporting data. Available versions:
 
-- V1: The initial dataset (August 2023)
-- V2: Several new annotations and supporting data added (January 2025)
+- V1: The initial dataset (August 2023, IRIS25)
+- V2: Several new annotations and supporting data added (January 2025, ICAIL25)
 
 
 ## Citation
 
-If you use this dataset in your research, please cite our work as follows:
-
-```bibtex
-@inproceedings{wardas2024employment,
-  title={AI-assisted German Employment Contract Review: A Benchmark Dataset},
-  author={Wardas, Oliver and Matthes, Florian},
-  booktitle={IRIS: Internationales Rechtsinformatik Symposium},
-  year={2025},
-  note={Dataset available at https://github.com/sebischair/Employment-Contract-Clauses-German}
-}
-```
+If you use this dataset in your research, please cite our work as described in each version. Citation templates are available in each version subfolder.
 
 ## License
 
