@@ -1,5 +1,19 @@
 # German Employment Contract Clauses - Dataset
 
+## Citation
+
+If you use this dataset in your research, please cite our work as follows:
+
+```bibtex
+@inproceedings{wardas2024subsumption,
+  title={LLMs for Legal Subsumption in German Employment Contracts},
+  author={Wardas, Oliver and Matthes, Florian},
+  booktitle={ICAIL: International Conference on Artificial Intelligence and Law},
+  year={2025},
+  note={Dataset available at https://github.com/sebischair/Employment-Contract-Clauses-German}
+}
+```
+
 ## Overview
 
 This dataset contains **891 samples** of clauses extracted from German employment contracts with updated legality labels and additional annotations. The reduction in samples from the previous version is due to the removal of conflicting legality annotations for identical clauses (keeping the more critical annotation).
@@ -22,7 +36,16 @@ This dataset contains **891 samples** of clauses extracted from German employmen
    4. **topic**: Reference to one topic
    5. **references**: Array of references to legal sources from which the rule was derived
 
-The file mappings.json maps referenced sources in rules to files containing the full text versions. For some sources this was not possible due to copyright issues; they are excluded.
+### Example Clause
+
+| Field              | Content                                                                                  |
+|--------------------|------------------------------------------------------------------------------------------|
+| **Clause**         | Die teilweise oder vollständige Abtretung und Pfändung der Vergütung ist ausgeschlossen. (The partial or complete assignment and seizure of the remuneration is excluded.) |
+| **Section Title**  | 5 Abtretungen/Pfändungen (5 Assignments/Garnishments)                                    |
+| **Category**       | Pfändung/Abtretung (Garnishment/Assignment)                                             |
+| **Classification** | void                                                                            |
+| **True Explanation**    | Pfändungs-/Abtretungsverbot seit 10/2021 nach § 308 Nr. 9 lit. a BGB in AGB ausgeschlossen (Prohibition of garnishment/assignment excluded in general terms and conditions since 10/2021 according to § 308 No. 9 lit. a BGB) |
+| **True Hurt Rules** (ref)   | \["Eine Klausel, die in den AGB ein generelles Pfändungs- oder Abtretungsverbot für die Forderungen des Arbeitnehmers festlegt, ist unwirksam."\] |
 
 ## Dataset Statistics
 
