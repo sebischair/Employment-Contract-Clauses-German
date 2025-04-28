@@ -1,0 +1,241 @@
+[
+    {
+        "_id": "678a5d77780e9d4cb9184b91",
+        "title": "Generelles Pfändungsverbot",
+        "text": "Eine Klausel, die in den AGB ein generelles Pfändungs- oder Abtretungsverbot für die Forderungen des Arbeitnehmers festlegt, ist unwirksam.",
+        "topic": "678a5b60780e9d4cb91849d1",
+        "references": [
+            "§ 308 BGB",
+            "BGH, Urteil vom 01.02.1978 - VIII ZR 232/75"
+        ]
+    },
+    {
+        "_id": "678a5dfc780e9d4cb9184bfe",
+        "title": "Kostenpauschale",
+        "text": "Eine Klausel, die eine Kostenpauschale von mehr als 10 € bei Verpfändungen vorsieht, ist unwirksam.",
+        "topic": "678a5b60780e9d4cb91849d1",
+        "references": [
+            "BMF, Schreiben vom 19.05.2015, BStBI 2015 I S. 468"
+        ]
+    },
+    {
+        "_id": "678a6002780e9d4cb9184c05",
+        "title": "Abwesenheitsgrund",
+        "text": "Eine Verpflichtung, dem Arbeitgeber den genauen Grund für Abwesenheit (Diagnose/Erkrankung) mitzuteilen, ist unwirksam.",
+        "topic": "678a5b46780e9d4cb918496d",
+        "references": [
+            "LAG Hessen, Urteil vom 07.10.2003 - 13/12 Sa 1479/02"
+        ]
+    },
+    {
+        "_id": "678a6054780e9d4cb9184c0c",
+        "title": "Nebenbeschäftigung Einschränkung",
+        "text": "Eine Klausel, die das Recht des Arbeitnehmers auf eine Nebenbeschäftigung einschränkt, ist unwirksam, wenn sie pauschal verbietet, unverhältnismäßig strenge Bedingungen setzt oder über die berechtigten Interessen des Arbeitgebers hinausgeht, ohne das Arbeitszeitgesetz, Konkurrenzverbot, oder die Beeinträchtigung der Haupttätigkeit angemessen zu berücksichtigen.",
+        "topic": "678a5b35780e9d4cb9184943",
+        "references": [
+            "§ 242 BGB",
+            "BAG, Urteil vom 19.12.2019 - 6 AZR 23/19",
+            "Art. 12 GG"
+        ]
+    },
+    {
+        "_id": "678a607e780e9d4cb9184c13",
+        "title": "Einseitige Ausschlussfrist",
+        "text": "Eine Ausschlussfrist, die nur einseitig für den Arbeitgeber und nicht für den Arbeitnehmer gilt, ist unwirksam.",
+        "topic": "678a5b6b780e9d4cb9184a07",
+        "references": [
+            "BAG, Urteil vom 21.06.2011 - 9 AZR 203/10",
+            "BAG, Urteil vom 07.07.2020 - 9 AZR 323/19"
+        ]
+    },
+    {
+        "_id": "678a618c780e9d4cb9184c21",
+        "title": "Zweistufige Ausschlussfristen",
+        "text": "Eine Klausel, die dem Arbeitnehmer in einer zweistufigen Ausschlussklausel für die Geltendmachung von Ansprüchen weniger als drei Monate in einer der Stufen einräumt oder die Vergleichsverhandlungen nicht berücksichtigt, ist unwirksam. Jede Ausschlussklausel muss zweistufig sein.",
+        "topic": "678a5b6b780e9d4cb9184a07",
+        "references": [
+            "BAG, Urteil vom 03.12.2019 - 9 AZR 44/19",
+            "BAG, Urteil vom 20.06.2018 - 5 AZR 262/17",
+            "BAG, Urteil vom 28.09.2005 - 5 AZR 52/05"
+        ]
+    },
+    {
+        "_id": "678a620e780e9d4cb9184c34",
+        "title": "Anspruchgeltendmachung Form",
+        "text": "Eine Vorschrift, die eine strengere Form als die Textform (also die Schriftform) für die Geltendmachung von Ansprüchen verlangt, ist unwirksam.",
+        "topic": "678a5b5a780e9d4cb91849b9",
+        "references": [
+            "BAG, Urteil vom 24.05.2022 - 9 AZR 461/21"
+        ]
+    },
+    {
+        "_id": "678a625a780e9d4cb9184c3b",
+        "title": "Ausschlussfrist Limitierungen",
+        "text": "Eine Ausschlussfrist, die die Ansprüche des Arbeitnehmers auf Haftung bei Vorsatz, den gesetzlichen Mindestlohn oder unverzichtbare Rechte einschränkt, ist unwirksam.",
+        "topic": "678a5b6b780e9d4cb9184a07",
+        "references": [
+            "BAG, Urteil vom 30.01.2019 - 5 AZR 43/18",
+            "BAG, Urteil vom 13.07.2022 - 5 AZR 498/21",
+            "BAG, Urteil vom 20.06.2013 - 8 AZR 280/12"
+        ]
+    },
+    {
+        "_id": "678a62a4780e9d4cb9184c42",
+        "title": "Verschwiegenheit Gehalt",
+        "text": "Die pauschale Verschwiegenheitsklausel über Gehalt stellt eine unangemessene Benachteiligung des Arbeitnehmers entgegen den Geboten von Treu und Glauben gemäß § 307 BGB dar und ist damit unzulässig.",
+        "topic": "678a5b35780e9d4cb9184943",
+        "references": [
+            "LAG Mecklenburg-Vorpommern, Urteil vom 21.10.2009 - 2 Sa 183/09"
+        ]
+    },
+    {
+        "_id": "678a62d7780e9d4cb9184c49",
+        "title": "Verschwiegenheit Kenntnisse",
+        "text": "Eine Verpflichtung zur Verschwiegenheit über schon vorhandene Kenntnisse oder öffentlich bekannte Tatsachen sind unwirksam. Offenkundig sind Tatsachen, wenn sie aufgrund allgemein zugänglicher Quellen erschlossen werden können oder schon allgemein bekannt sind.",
+        "topic": "678a5b35780e9d4cb9184943",
+        "references": [
+            "§ 291 ZPO",
+            "BAG, Urteil vom 16.03.1982 - 3 AZR 83/79",
+            "§ 23 GeschGehG"
+        ]
+    },
+    {
+        "_id": "678a6320780e9d4cb9184c50",
+        "title": "Abgegoltene Überstunden",
+        "text": "Umfang von über 8 Stunden pro Woche bzw. als abgegoltene Überstunden ist bei einer Tätigkeit von 40 Stunden in der Woche unzulässig. (Maximal 20% der Wochenarbeitszeit erlaubt)",
+        "topic": "678a5b21780e9d4cb9184931",
+        "references": [
+            "BAG, Urteil vom 01.09.2010 - 5 AZR 517/09"
+        ]
+    },
+    {
+        "_id": "678a6376780e9d4cb9184c57",
+        "title": "Abgeltung Überstunden Transparenz",
+        "text": "Klauseln zur Abgeltung von Überstunden sind unwirksam, wenn sie festlegen, dass Überstunden pauschal mit dem Gehalt abgegolten sind oder wenn sie nicht transparent festlegen, wie viele Überstunden ohne zusätzliche Vergütung zu leisten sind, und dabei keine unzulässigen Rechtsfolgen wie etwa die Unterschreitung des Mindestlohns oder ein auffälliges Missverhältnis zwischen Leistung und Gegenleistung eintreten.",
+        "topic": "678a5b21780e9d4cb9184931",
+        "references": [
+            "BAG, Urteil vom 22.02.2012 - 5 AZR 765/10",
+            "BAG, Urteil vom 26.06.2019 - 5 AZR 452/18"
+        ]
+    },
+    {
+        "_id": "678a6392780e9d4cb9184c5e",
+        "title": "Mindestlohn",
+        "text": "Eine vertraglich vereinbarte Vergütung, die unter dem gesetzlichen Mindestlohn von 12,41 € pro Arbeitsstunde liegt, verstößt gegen das Mindestlohngesetz und ist damit unwirksam.",
+        "topic": "678a5b21780e9d4cb9184931",
+        "references": [
+            "§ 1 MiLoG"
+        ]
+    },
+    {
+        "_id": "678a63c2780e9d4cb9184c65",
+        "title": "Vergütung Schulungen",
+        "text": "Eine Klausel, die vorschreibt, betriebliche Schulungen nicht zu entlohnen, ist unwirksam.",
+        "topic": "678a5b21780e9d4cb9184931",
+        "references": [
+            "BAG, Urteil vom 25.04.2023 - 9 AZR 187/22",
+            "BAG, Urteil vom 01.03.2022 - 9 AZR 260/21"
+        ]
+    },
+    {
+        "_id": "678a63eb780e9d4cb9184c6c",
+        "title": "Wettbewerbsverbot Minderheitsbeteiligungen",
+        "text": "Ein vollständiges Wettbewerbsverbot ohne Ausnahmen für rein finanzielle Minderheitsbeteiligungen bis zu 5 % der Gesellschaftsanteile ist unwirksam.",
+        "topic": "678a5b84780e9d4cb9184a45",
+        "references": [
+            "OLG Stuttgart, Urteil vom 07.03.2019 - 14 U 26/16"
+        ]
+    },
+    {
+        "_id": "678a6447780e9d4cb9184c73",
+        "title": "Wettbewerbsverbot Karenzentschädigung",
+        "text": "Ein nachvertragliches Wettbewerbsverbot ohne Karenzentschädigung oder mit einer Karenzentschädigung, die weniger als 50 % des zuletzt bezogenen Bruttomonatsgehalts des Arbeitnehmers beträgt, inklusive aller festen und variablen Gehaltsbestandteile (z. B. Prämien, Boni), ist unwirksam.",
+        "topic": "678a5b84780e9d4cb9184a45",
+        "references": [
+            "§ 60 HGB",
+            "BAG, Urteil vom 22.03.2017 - 10 AZR 448/15",
+            "BAG, Urteil vom 31.01.2018 - 10 AZR 392/17",
+            "§ 74 HGB",
+            "§ 61 HGB"
+        ]
+    },
+    {
+        "_id": "678a6477780e9d4cb9184c7a",
+        "title": "Wettbewerbsverbot Max. Dauer",
+        "text": "Ein nachvertragliches Wettbewerbsverbot von mehr als zwei Jahren ist unwirksam.",
+        "topic": "678a5b84780e9d4cb9184a45",
+        "references": [
+            "§ 60 HGB",
+            "BAG, Urteil vom 22.03.2017 - 10 AZR 448/15",
+            "§ 74 HGB",
+            "§ 61 HGB"
+        ]
+    },
+    {
+        "_id": "678bcb3dd87a6f8049fddf50",
+        "title": "Kündigungsfrist Probezeit",
+        "text": "Eine Klausel, die während der Probezeit eine Kündigungsfrist vorschreibt, diese aber auf einen bestimmten Zeitpunkt wie das Monatsende beschränkt, ist unwirksam. Die Kündigungsfrist muss eine taggenaue Beendigung des Arbeitsverhältnisses innerhalb der Probezeit ermöglichen. Auch eine Kündigung am letzten Tag der Probezeit ist möglich mit einer vierzehntägigen Frist.",
+        "topic": "678a5b3a780e9d4cb918494f",
+        "references": [
+            "BAG, Urteil vom 23.03.2017 – 6 AZR 705/15",
+            "BAG, Urteil vom 24.01.1966 – 2 AZR 264/6"
+        ]
+    },
+    {
+        "_id": "678bcbc7d87a6f8049fddf57",
+        "title": "Vertragsänderung Form",
+        "text": "Eine Klausel, welche für Vertragsänderungen eine strengere Form als die Textform (also die Schriftform) verlangt, ist unzulässig.",
+        "topic": "678a5b5a780e9d4cb91849b9",
+        "references": [
+            "BAG, Urteil vom 20.05.2008 – 9 AZR 382/07"
+        ]
+    },
+    {
+        "_id": "678bcc5ad87a6f8049fddf65",
+        "title": "Kündigungsfrist Max. Dauer",
+        "text": "Eine Klausel, welche eine Kündigungsfrist von Seiten des Arbeitnehmers von über 4 Wochen vorschreibt, ist unzulässig, soweit nicht übereinstimmend gleich lange Kündigungsfristen für Arbeitnehmer und Arbeitgeber vereinbart worden sind.",
+        "topic": "678a5b3a780e9d4cb918494f",
+        "references": [
+            "§ 622 BGB",
+            "BAG, Urteil vom 28.05.2009 - 8 AZR 896/07",
+            "BAG, Urteil vom 26.10.2017 – 6 AZR 158/16",
+            "BAG, Urteil vom 25.09.2008 – 8 AZR 717/07"
+        ]
+    },
+    {
+        "_id": "678bd561d87a6f8049fddf73",
+        "title": "Einarbeitungsstunden Schaden",
+        "text": "Eine Klausel, welche vorschreibt, Einarbeitungsstunden bei einer schuldhaften Auflösung des Arbeitsvertrags durch den Arbeitnehmer als Schaden geltend zu machen, ist unzulässig.",
+        "topic": "678a5b84780e9d4cb9184a45",
+        "references": [
+            "§ 307 BGB"
+        ]
+    },
+    {
+        "_id": "678bd828d87a6f8049fddf7a",
+        "title": "Pausenregelung",
+        "text": "Eine Klausel, welche einen pauschalen Pausenabzug bei einer täglichen Arbeitszeit von 6 Stunden oder weniger vorschreibt, ist unzulässig.",
+        "topic": "678a5b35780e9d4cb9184943",
+        "references": [
+            "BAG, Urteil vom 20.04.2011 – 5 AZR 200/10"
+        ]
+    },
+    {
+        "_id": "6794200fd87a6f8049fde668",
+        "title": "Kündigungsfrist Arbeitgeber",
+        "text": "Für eine Kündigung durch den Arbeitgeber beträgt die Kündigungsfrist, wenn das Arbeitsverhältnis zwei Jahre bestanden hat, einen Monat zum Ende eines Kalendermonats, fünf Jahre bestanden hat, zwei Monate zum Ende eines Kalendermonats, acht Jahre bestanden hat, drei Monate zum Ende eines Kalendermonats, zehn Jahre bestanden hat, vier Monate zum Ende eines Kalendermonats, zwölf Jahre bestanden hat, fünf Monate zum Ende eines Kalendermonats, 15 Jahre bestanden hat, sechs Monate zum Ende eines Kalendermonats und 20 Jahre bestanden hat, sieben Monate zum Ende eines Kalendermonats.",
+        "topic": "678a5b3a780e9d4cb918494f",
+        "references": [
+            "§ 622 BGB"
+        ]
+    },
+    {
+        "_id": "67942f34d87a6f8049fde684",
+        "title": "Mindesturlaub",
+        "text": "Der Mindesturlaub pro Jahr beträgt 4 Werktage pro Wochenarbeitstag (20h bei 5 Arbeitstagen). Eine Klausel, welche einen geringeren Urlaubsanspruch vorschreibt, ist unwirksam.",
+        "topic": "678a5b4f780e9d4cb918498f",
+        "references": [
+            "§ 3 BUrlG"
+        ]
+    }
+]
