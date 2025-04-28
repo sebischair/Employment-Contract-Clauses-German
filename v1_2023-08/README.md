@@ -1,5 +1,19 @@
 # German Employment Contract Clauses - Dataset
 
+## Citation
+
+If you use this dataset in your research, please cite our work as follows:
+
+```bibtex
+@inproceedings{wardas2024employment,
+  title={AI-assisted German Employment Contract Review: A Benchmark Dataset},
+  author={Wardas, Oliver and Matthes, Florian},
+  booktitle={IRIS: Internationales Rechtsinformatik Symposium},
+  year={2025},
+  note={Dataset available at https://github.com/sebischair/Employment-Contract-Clauses-German}
+}
+```
+
 ## Overview
 
 This dataset contains **1094 samples** of clauses extracted from German employment contracts. Each sample includes the clause text, the title of its section, and three types of annotations:
@@ -20,6 +34,7 @@ This dataset contains **1094 samples** of clauses extracted from German employme
 - **Bias Considerations**: While the dataset is drawn from anonymized client contracts, potential bias towards problematic clauses may exist due to the nature of contracts typically submitted for legal review.
 
 ### Example Clause
+
 | Field              | Content                                                                                  |
 |--------------------|------------------------------------------------------------------------------------------|
 | **Clause**         | Die teilweise oder vollständige Abtretung und Pfändung der Vergütung ist ausgeschlossen. (The partial or complete assignment and seizure of the remuneration is excluded.) |
@@ -27,20 +42,6 @@ This dataset contains **1094 samples** of clauses extracted from German employme
 | **Category**       | Pfändung/Abtretung (Garnishment/Assignment)                                             |
 | **Classification** | Void (1)                                                                            |
 | **Explanation**    | Pfändungs-/Abtretungsverbot seit 10/2021 nach § 308 Nr. 9 lit. a BGB in AGB ausgeschlossen (Prohibition of garnishment/assignment excluded in general terms and conditions since 10/2021 according to § 308 No. 9 lit. a BGB) |
-
-## Citation
-
-If you use this dataset in your research, please cite our work as follows:
-
-```bibtex
-@inproceedings{wardas2024employment,
-  title={AI-assisted German Employment Contract Review: A Benchmark Dataset},
-  author={Wardas, Oliver and Matthes, Florian},
-  booktitle={IRIS: Internationales Rechtsinformatik Symposium},
-  year={2025},
-  note={Dataset available at https://github.com/sebischair/Employment-Contract-Clauses-German}
-}
-```
 
 ## Dataset Statistics
 
