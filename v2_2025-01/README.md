@@ -5,7 +5,7 @@
 If you use this dataset in your research, please cite our work as follows:
 
 ```bibtex
-@inproceedings{wardas2024subsumption,
+@inproceedings{wardas2025subsumption,
   title={LLMs for Legal Subsumption in German Employment Contracts},
   author={Wardas, Oliver and Matthes, Florian},
   booktitle={ICAIL: International Conference on Artificial Intelligence and Law},
