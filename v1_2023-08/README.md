@@ -5,12 +5,14 @@
 If you use this dataset in your research, please cite our work as follows:
 
 ```bibtex
-@inproceedings{wardas2024employment,
+@article{wardas2025employment,
   title={AI-assisted German Employment Contract Review: A Benchmark Dataset},
   author={Wardas, Oliver and Matthes, Florian},
-  booktitle={IRIS: Internationales Rechtsinformatik Symposium},
+  journal={Jusletter IT},
+  pages="443--451",
+  issn="1664-848X",
   year={2025},
-  note={Dataset available at https://github.com/sebischair/Employment-Contract-Clauses-German}
+  doi="10.38023/a3788d39-3278-4ae5-b5b7-c73b01e6a6f2",
 }
 ```
 
