@@ -8,7 +8,8 @@ If you use this dataset in your research, please cite our work as follows:
 @inproceedings{wardas2025subsumption,
   title={LLMs for Legal Subsumption in German Employment Contracts},
   author={Wardas, Oliver and Matthes, Florian},
-  booktitle={ICAIL: International Conference on Artificial Intelligence and Law},
+  booktitle={Proceedings of the Twentieth International Conference on Artificial Intelligence and Law},
+  pages={169--176},
   year={2025},
   note={Dataset available at https://github.com/sebischair/Employment-Contract-Clauses-German}
 }
