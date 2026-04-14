@@ -11,6 +11,7 @@ The dataset is periodically updated according to changes in regulation and new c
 
 - V1: The initial dataset (August 2023, IRIS25)
 - V2: Several new annotations and supporting data added (January 2025, ICAIL25)
+- V3: Exhaustive error annotations added (January 2026, ICAIL26)
 
 
 ## Citation
